@@ -1,0 +1,5 @@
+Part 1 : Environment setup
+part 2 : Data Ingestion
+part 3 : Data Transformation
+part 4 : Data Loading 
+Part 5 : Data Reporting 
